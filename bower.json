@@ -1,6 +1,10 @@
 {
   "name": "purescript-shortid",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DaQuirm/purescript-shortid.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
